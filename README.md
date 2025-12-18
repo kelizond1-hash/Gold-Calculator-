@@ -1,4 +1,3 @@
-# Gold-Calculator-
 <!DOCTYPE html>
 
 <html lang="en">
